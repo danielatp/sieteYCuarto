@@ -1,0 +1,79 @@
+/*@media (max-width: 600px)*/
+
+.titulo{
+  height:40px;
+  padding: 7px 20px;
+  letter-spacing: 1px;
+}
+
+.titulo h2{
+  font-size: 20px;
+  margin:0;
+  padding: 0;
+}
+
+.parallax01{
+  background-image: none;
+}
+.parallax02{
+  background-image: none;
+}
+.parallax03{
+  background-image: none;
+}
+
+body{
+  font-size: 14px;
+}
+
+.logo715home{
+  margin: 8vh auto;
+  margin-top: 10vh;
+  margin-bottom: 4vh;
+  background-image: url("../images/logo715.png"); 
+}
+
+.conocenos{
+  margin-bottom: 20vh;
+}
+
+#conocenos{
+  margin: 0 2%;
+}
+
+#conocenos iframe{
+  max-width: 400px;
+  margin-bottom: 10%;
+  height: 250px;
+}
+
+#historiaSection{
+  padding:0;
+}
+
+.comoAyudarSection{
+  padding:0;
+}
+
+#contacto p{
+  font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
